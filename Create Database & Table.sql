@@ -12,7 +12,7 @@ drop database if exists gfgs;
 # create table users add column (name,phone_no,email,location)
 create table gfgs.users 
 (
-	name varchar(20),
+    name varchar(20),
     phone_no varchar(13),
     email varchar(50),
     location varchar(255)
