@@ -1,6 +1,6 @@
-# Data-Analyst-Weekly-Progress
+# Data-Analyst-Progress
 
-# First Week
+# Create Database & Table
 Practiced database creation and table management.
 
 Worked with different SQL constraints and data types.
