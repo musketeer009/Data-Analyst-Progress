@@ -32,7 +32,7 @@ Where clause applied on different columns as per the requirement.
 
 # Filters Alias And Or
 1. Data Filtering (Using LIKE Operator)
-2. 
+   
 Used for pattern matching
 
 Brands starting or ending with specific letters.
