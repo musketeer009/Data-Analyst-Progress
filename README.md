@@ -16,3 +16,15 @@ Applied filtering, sorting, and limiting on data retrieval.
 Debugged SQL syntax and logical errors.
 
 Gained experience handling transactions and relationships between tables.
+
+
+# Where Clause
+Practice sql query to extract data using where clause.
+
+Applied where clause based on cost.
+
+Applied where clause based on size.
+
+To get required result used different conditions.
+
+Where clause applied on different columns as per the requirement.
