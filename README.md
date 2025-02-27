@@ -66,6 +66,19 @@ Combining AND & OR:
 Use parentheses to group conditions and control execution order.
 
 
+# Myntra_Assignment_GFG
+This assignment contains series of SQL queries performed on the myntra database to extract insights about product ratings, prices, and brands. The queries involve filtering, sorting, and limiting data to identify the best-rated, worst-rated, and most/least expensive products.
 
+Filtering Data: Using the WHERE clause with conditions like >, <, =, IN, and BETWEEN to select specific records.
+
+Sorting Data: Applying ORDER BY to arrange results in ascending or descending order.
+
+Limiting Records: Using LIMIT to fetch a specific number of results or skip records with offset (LIMIT a,b).
+
+Aggregations: Utilizing aggregate functions to identify the product.
+
+Derived Values: Calculating custom values using arithmetic operations e.g., rating * rating_count.
+
+Aliases: Using ROUND() to round values and assign names for better understanding.
 
 
