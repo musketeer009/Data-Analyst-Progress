@@ -82,3 +82,29 @@ Derived Values: Calculating custom values using arithmetic operations e.g., rati
 Aliases: Using ROUND() to round values and assign names for better understanding.
 
 
+# DDL Alter Commands
+Added new column with a default value of NULL.
+
+Renamed the table and column.
+
+Added a primary key on column.
+
+Dropped the primary key from the table.
+
+Modified the column to increase its length.
+
+Changed the data type of column.
+
+Added a virtual/generated column.
+
+Dropped the column.
+
+
+# DML Insert Command
+Insert value for all columns.
+
+Insert value for selected columns.
+
+Insert value for selected columns with different order.
+
+Insert multiple values at a time.
