@@ -19,3 +19,12 @@ alter table myntra drop column discounted_amount;
 alter table myntra add column discounted_amount int;
 
 alter table myntra modify discounted_amount int not null;
+
+alter table transaction rename column email to customer_email;
+
+alter table inventory rename to records;
+
+alter table transaction add PRIMARY KEY (transaction_id);
+
+alter table transaction drop PRIMARY KEY;
+
