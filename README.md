@@ -107,4 +107,11 @@ Insert value for selected columns.
 
 Insert value for selected columns with different order.
 
+
+# DML Delete Command
+Deleted rows based on different conditions e.g., product_name, size, Quantity.
+
+# DML Update Commands
+
+
 Insert multiple values at a time.
