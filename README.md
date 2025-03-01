@@ -108,10 +108,29 @@ Insert value for selected columns.
 Insert value for selected columns with different order.
 
 
+# DML Update Commands
+Change the product name from one value to another.
+
+Modify the product quantity to a new value based on specific conditions.
+
+Add a specific amount to the discounted price for products.
+
+Increase the stock quantity for a specified product.
+
+Decrease the discounted price for products of a specific size.
+
+Modify the phone number for products matching a specific name.
+
+Adjust the quantity, price, and size simultaneously for a particular product.
+
+Set the quantity to zero for products with negative stock levels.
+
+Change the size for products matching a specific keyword pattern.
+
+
 # DML Delete Command
 Deleted rows based on different conditions e.g., product_name, size, Quantity.
 
-# DML Update Commands
 
 
-Insert multiple values at a time.
+
