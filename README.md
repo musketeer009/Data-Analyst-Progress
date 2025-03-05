@@ -132,5 +132,22 @@ Change the size for products matching a specific keyword pattern.
 Deleted rows based on different conditions e.g., product_name, size, Quantity.
 
 
+# Group_By_Having
+Used the select statement to retrieve data from the "myntra" table and inspect its structure.
 
+Applied the group by clause to group data by specific columns like brand_name and rating.
+
+Utilized the having clause to filter grouped records based on aggregate conditions, such as revenue and average rating thresholds.
+
+Employed aggregate functions like sum(), avg(), count(), max(), and min() to perform calculations on grouped data.
+
+Sorted query results using the order by clause in ascending and descending order for better data analysis.
+
+Applied conditional filtering using the where clause to limit records before grouping, such as selecting products with a rating greater than 4.
+
+Calculated derived values using arithmetic operations within queries, such as finding the discount percentage.
+
+Combined multiple conditions using logical operators like and for more complex filters on grouped data.
+
+Extracted insights by combining aggregation, grouping, and filtering to analyze key metrics like total revenue, average rating, and maximum discounts.
 
