@@ -31,7 +31,7 @@ Where clause applied on different columns as per the requirement.
 
 
 # Filters Alias And Or
-1. Data Filtering (Using LIKE Operator)
+## 1. Data Filtering (Using LIKE Operator)
    
 Used for pattern matching
 
@@ -43,7 +43,7 @@ Brands with defined character lengths.
 
 Brands meeting advanced character position patterns.
 
-2. Data Aggregation with Aliases
+## 2. Data Aggregation with Aliases
 
 Performs data summarization by using aliases for clarity
 
@@ -52,7 +52,7 @@ Total Products Sold as rating_count.
 Cost as Minimum, Average, and Maximum marked_price.
 
 
-3. Conditional Filtering (Using AND & OR Operators)
+## 3. Conditional Filtering (Using AND & OR Operators)
 
 The AND and OR operators are used to apply multiple conditions to filter data more precisely.
 
@@ -133,8 +133,6 @@ Deleted rows based on different conditions e.g., product_name, size, Quantity.
 
 
 # Group_By_Having
-Used the select statement to retrieve data from the "myntra" table and inspect its structure.
-
 Applied the group by clause to group data by specific columns like brand_name and rating.
 
 Utilized the having clause to filter grouped records based on aggregate conditions, such as revenue and average rating thresholds.
